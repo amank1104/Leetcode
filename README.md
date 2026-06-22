@@ -13,6 +13,7 @@ leetcodes solution
 | [0118-pascals-triangle](https://github.com/amank1104/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amank1104/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/amank1104/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/amank1104/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/amank1104/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/amank1104/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/amank1104/Leetcode/tree/master/0704-binary-search) |
@@ -29,6 +30,7 @@ leetcodes solution
 | [0002-add-two-numbers](https://github.com/amank1104/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/amank1104/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/amank1104/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/amank1104/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/amank1104/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/amank1104/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/amank1104/Leetcode/tree/master/0509-fibonacci-number) |
@@ -72,6 +74,7 @@ leetcodes solution
 | [0075-sort-colors](https://github.com/amank1104/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amank1104/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/amank1104/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/amank1104/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/amank1104/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
