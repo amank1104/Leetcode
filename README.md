@@ -15,6 +15,7 @@ leetcodes solution
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amank1104/Leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/amank1104/Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/amank1104/Leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
