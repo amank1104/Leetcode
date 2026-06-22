@@ -15,6 +15,7 @@ leetcodes solution
 | [0169-majority-element](https://github.com/amank1104/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/amank1104/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/amank1104/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/amank1104/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/amank1104/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/amank1104/Leetcode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/amank1104/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -32,6 +33,7 @@ leetcodes solution
 | [0069-sqrtx](https://github.com/amank1104/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/amank1104/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/amank1104/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/amank1104/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/amank1104/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/amank1104/Leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
@@ -39,6 +41,7 @@ leetcodes solution
 | ------- |
 | [0190-reverse-bits](https://github.com/amank1104/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/amank1104/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/amank1104/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +71,7 @@ leetcodes solution
 | ------- |
 | [0035-search-insert-position](https://github.com/amank1104/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/amank1104/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/amank1104/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/amank1104/Leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -84,6 +88,7 @@ leetcodes solution
 | [0169-majority-element](https://github.com/amank1104/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amank1104/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amank1104/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/amank1104/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +97,7 @@ leetcodes solution
 | [0169-majority-element](https://github.com/amank1104/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amank1104/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amank1104/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/amank1104/Leetcode/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
