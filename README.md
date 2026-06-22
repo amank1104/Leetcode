@@ -92,4 +92,16 @@ leetcodes solution
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/amank1104/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/amank1104/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/amank1104/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/amank1104/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
