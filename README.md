@@ -14,6 +14,7 @@ leetcodes solution
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amank1104/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/amank1104/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amank1104/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/amank1104/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/amank1104/Leetcode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/amank1104/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
@@ -71,6 +72,7 @@ leetcodes solution
 | [0075-sort-colors](https://github.com/amank1104/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amank1104/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/amank1104/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/amank1104/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
