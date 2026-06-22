@@ -21,6 +21,7 @@ leetcodes solution
 | [0009-palindrome-number](https://github.com/amank1104/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/amank1104/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/amank1104/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/amank1104/Leetcode/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -30,6 +31,7 @@ leetcodes solution
 | ------- |
 | [0002-add-two-numbers](https://github.com/amank1104/Leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/amank1104/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/amank1104/Leetcode/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
