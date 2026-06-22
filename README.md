@@ -16,6 +16,7 @@ leetcodes solution
 | ------- |
 | [0002-add-two-numbers](https://github.com/amank1104/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/amank1104/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/amank1104/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/amank1104/Leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -39,4 +40,8 @@ leetcodes solution
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amank1104/Leetcode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/amank1104/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
