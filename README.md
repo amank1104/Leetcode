@@ -7,6 +7,7 @@ leetcodes solution
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/amank1104/Leetcode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/amank1104/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amank1104/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/amank1104/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amank1104/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,6 +63,7 @@ leetcodes solution
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/amank1104/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amank1104/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/amank1104/Leetcode/tree/master/0125-valid-palindrome) |
 ## Hash Table
@@ -72,6 +74,7 @@ leetcodes solution
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/amank1104/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amank1104/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/amank1104/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amank1104/Leetcode/tree/master/0242-valid-anagram) |
