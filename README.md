@@ -34,6 +34,7 @@ leetcodes solution
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amank1104/Leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/amank1104/Leetcode/tree/master/0058-length-of-last-word) |
 ## Stack
 |  |
 | ------- |
