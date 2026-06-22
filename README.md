@@ -14,6 +14,7 @@ leetcodes solution
 | ------- |
 | [0118-pascals-triangle](https://github.com/amank1104/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amank1104/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/amank1104/Leetcode/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -22,6 +23,7 @@ leetcodes solution
 | [0069-sqrtx](https://github.com/amank1104/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/amank1104/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/amank1104/Leetcode/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/amank1104/Leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,6 +34,7 @@ leetcodes solution
 | [0002-add-two-numbers](https://github.com/amank1104/Leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/amank1104/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/amank1104/Leetcode/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/amank1104/Leetcode/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -65,4 +68,8 @@ leetcodes solution
 | ------- |
 | [0217-contains-duplicate](https://github.com/amank1104/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amank1104/Leetcode/tree/master/0242-valid-anagram) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/amank1104/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
