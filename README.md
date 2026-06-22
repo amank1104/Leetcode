@@ -11,4 +11,16 @@ leetcodes solution
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amank1104/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/amank1104/Leetcode/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/amank1104/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/amank1104/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
