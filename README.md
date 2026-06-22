@@ -36,6 +36,7 @@ leetcodes solution
 | [0231-power-of-two](https://github.com/amank1104/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/amank1104/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/amank1104/Leetcode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/amank1104/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/amank1104/Leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -64,6 +65,7 @@ leetcodes solution
 | [0125-valid-palindrome](https://github.com/amank1104/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/amank1104/Leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/amank1104/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0412-fizz-buzz](https://github.com/amank1104/Leetcode/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -139,4 +141,8 @@ leetcodes solution
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/amank1104/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/amank1104/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
