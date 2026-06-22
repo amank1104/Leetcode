@@ -6,6 +6,7 @@ leetcodes solution
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/amank1104/Leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/amank1104/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/amank1104/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amank1104/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -54,6 +55,7 @@ leetcodes solution
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/amank1104/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/amank1104/Leetcode/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
