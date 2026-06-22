@@ -14,6 +14,7 @@ leetcodes solution
 | [0169-majority-element](https://github.com/amank1104/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amank1104/Leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/amank1104/Leetcode/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/amank1104/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,4 +116,8 @@ leetcodes solution
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amank1104/Leetcode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/amank1104/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
