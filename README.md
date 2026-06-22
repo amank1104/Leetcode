@@ -14,6 +14,7 @@ leetcodes solution
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amank1104/Leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/amank1104/Leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -22,5 +23,10 @@ leetcodes solution
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amank1104/Leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/amank1104/Leetcode/tree/master/0231-power-of-two) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/amank1104/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
